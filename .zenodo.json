@@ -1,0 +1,25 @@
+{
+  "title": "The T-map contracts at √3/2: a Collatz census below 10^6, a length-16 parity-vector bijection, and a coral inverse tree",
+  "description": "The accelerated Collatz map is defined by T(n) = n/2 if n even and (3n+1)/2 if n odd. Its coin-flip geometric mean is √(1/2 · 3/2) = √3/2 ≈ 0.866025. A complete census of all starting values below 10^6 yields a measured mean of 0.865312 (relative error 8×10^{-4}). Every orbit terminates at 1. The length-16 parity-vector bijection and a coral fragment of the inverse tree are exhibited. The delay record 837799 requires 524 steps. This is a computational census and structural observation, not a proof of the Collatz conjecture.",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "orcid": "0009-0006-7068-3718"
+    }
+  ],
+  "keywords": [
+    "Collatz conjecture",
+    "accelerated Collatz map",
+    "geometric mean",
+    "parity vectors",
+    "inverse tree",
+    "computational census",
+    "T-map",
+    "√3/2"
+  ],
+  "license": "Apache-2.0",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "access_right": "open",
+  "notes": "Computational census and structural observation. Not a proof of the Collatz conjecture. Related prior work includes the teaming lemma (10.5281/zenodo.23629486) and the cycle prefix census (10.5281/zenodo.23629488)."
+}
