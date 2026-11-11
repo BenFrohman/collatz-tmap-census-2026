@@ -29,3 +29,9 @@ This is a computational census and structural observation, not a proof of the Co
 4. Upload the PDF in the Zenodo draft interface and publish when ready.
 
 **Do not publish until the PDF is attached and metadata is reviewed.**
+
+## License and copyright
+
+Licensed under the Apache License, Version 2.0. See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+
+© 2026 Benjamin Stanley Frohman.
